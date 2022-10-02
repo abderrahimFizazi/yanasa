@@ -30,7 +30,7 @@ We developed a physical visualizator using sensors and different electronic comp
 
 
 <p align="center">
-<img src="./pres/collage.jpg" width="500">
+<img src="./hardware/collage.jpg" width="500">
 </p>
 
 # &#127757; Our Challenge: <a href="https://2022.spaceappschallenge.org/challenges/2022-challenges/resources-gateway/resources">Capacity Building Resources Gateway</a>
