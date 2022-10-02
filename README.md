@@ -29,9 +29,9 @@ Our plateform is available also as a mobile app, you can check it <a href="https
 We developed a physical visualizator using sensors and different electronic components (ESP32, DHT11 sensor, White leds, Ultravviolet led, fan, cooler, heater, humidifier and 4 Relay module...) that offers you real experiments with simulation models that help, predict, and show the consequences of every decision.
 
 
+<p align="center">
 <img src="./pres/collage.jpg" width="500">
-
-
+</p>
 
 # &#127757; Our Challenge: <a href="https://2022.spaceappschallenge.org/challenges/2022-challenges/resources-gateway/resources">Capacity Building Resources Gateway</a>
 
